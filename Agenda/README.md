@@ -1,6 +1,6 @@
-# Agenda App em Flutter
+# agenda
 
-Este projeto é uma agenda desenvolvida em Flutter, utilizando a arquitetura baseada em camadas. O backend utiliza **Firebase** para autenticação e banco de dados.
+Ua agenda simples
 
 ## Getting Started
 
